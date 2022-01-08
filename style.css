@@ -95,3 +95,14 @@ footer {
 .copylight small {
   font-size: 0.85rem;
 }
+
+/* NOTE: top index */
+
+.main-title {
+  text-align: center;
+  margin-top: 6%;
+}
+
+.main-title h2 {
+  font-size: 1.5rem;
+}
