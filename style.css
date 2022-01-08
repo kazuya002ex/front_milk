@@ -62,3 +62,27 @@ button,
 select {
   cursor: pointer;
 }
+
+/* NOTE: mycode */
+
+body {
+  margin: 3% 12%;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-logo {
+  color: #31aa90;
+  font-size: 1.25rem;
+}
+
+.header-list ul {
+  display: flex;
+}
+
+.header-list ul li {
+  margin-left: 12px;
+}
